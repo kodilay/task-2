@@ -14,7 +14,7 @@ def calculator(sayi1, sayi2, islem):
         print("Geçersiz işlem yapıldı lütfen geçerli işlem girin!")
 
 
-calculator(7, 3, '+')  
+calculator(21, 7, '+')  
 calculator(50, 2, '/') 
 calculator(913, 0, '/')   
 calculator(100, 5, '%')   
