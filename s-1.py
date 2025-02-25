@@ -11,5 +11,5 @@ def asalsayi_mi(sayi):
             else:
                 print(f'{sayi} bu sayıbir asal sayıdır.')
                 break
-asalsayi_mi(7)
-asalsayi_mi(10)    
+asalsayi_mi(19)
+asalsayi_mi(24)    
