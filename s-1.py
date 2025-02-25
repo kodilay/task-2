@@ -9,7 +9,8 @@ def asalsayi_mi(sayi):
                 print(f'{sayi} bu sayı bir asal sayı değildir.')
                 break
             else:
-                print(f'{sayi} bu sayıbir asal sayıdır.')
+                print(f'{sayi} bu sayı bir asal sayıdır.')
                 break
 asalsayi_mi(19)
 asalsayi_mi(24)    
+asalsayi_mi(2) 
